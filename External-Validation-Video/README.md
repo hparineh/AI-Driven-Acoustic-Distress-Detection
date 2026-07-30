@@ -8,16 +8,11 @@ YouTube:
 ## Use in the study
 
 The recording was used for external temporal validation of the acoustic
-distress-detection framework. Audio was extracted from the publicly accessible
-recording and analysed using consecutive two-second windows according to the
+distress-detection framework. This video was extracted from the publicly accessible
+recording, and analysed using consecutive two-second windows according to the
 procedure described in the associated manuscript.
 
 ## Availability notice
-
-The original video is not redistributed through this repository because it is
-third-party content and remains subject to the copyright, licensing, and terms
-of use of the original content provider and hosting platform.
-
 This repository provides the information necessary to identify the original
 recording, together with the associated analysis code, temporal-validation
 procedure, and derived prediction records where redistribution is permitted.
