@@ -31,29 +31,20 @@ The repository is structured to avoid exposing private local paths, copyrighted 
 ## Repository structure
 
 ```text
-.
-├── README.md
-├── LICENSE
-├── CITATION.cff
-├── requirements.txt
-├── .gitignore
-│
-├── src/
-│   ├── publication_safe_baseline_benchmark.py
+AI-Driven-Acoustic-Distress-Detection/
+├── Codes/
+│   ├── metadata/
+│   ├── baseline_benchmark.py
+│   ├── external_video_validation.py
 │   ├── frequency_magnitude_analysis.py
-│   └── external_video_validation.py
-│
-├── metadata/
-│   ├── dataset_manifest_template.csv
-│   └── audio_manifest_template.csv
-│
-├── outputs/
-│   └── .gitkeep
-│
-└── docs/
-    ├── DATASET.md
-    ├── REPRODUCIBILITY.md
-    └── LICENSES.md
+│   ├── requirements.txt
+│   ├── LICENSE_NOTE.txt
+│   └── README.md
+├── Dataset/
+│   └── README.md
+├── External-Validation-Video/
+│   └── README.md
+└── README.md
 ```
 
 The exact repository structure may differ slightly depending on the final release.
